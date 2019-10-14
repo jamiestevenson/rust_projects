@@ -1,0 +1,6 @@
+14-10-2019
+Get this project working without a bundler:
+https://rustwasm.github.io/docs/wasm-bindgen/examples/without-a-bundler.html
+
+Revise the web-assembly JS-Rust memory model and arguments for using data
+structures the way the demo app does.
