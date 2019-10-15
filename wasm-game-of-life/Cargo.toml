@@ -3,6 +3,7 @@ name = "wasm-game-of-life"
 version = "0.1.0"
 authors = ["Jamie Stevenson <jamie.stevenson@screenmedia.co.uk>"]
 edition = "2018"
+description = "A game of life simulation ported to web assembly"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
